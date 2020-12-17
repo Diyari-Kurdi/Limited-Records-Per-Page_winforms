@@ -1,4 +1,4 @@
-# Limited Records Per Page-winforms C#
+# Limited Records Per Page-winforms (Pagination) C#
 Displaying limited records per page using Datagridview in winforms C# (without BindingNavigator)
 
 
